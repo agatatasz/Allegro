@@ -84,7 +84,6 @@ class BaseTestHome(unittest.TestCase):
 
 
 
-
     def tearDown(self):
         self.driver.quit()
 
